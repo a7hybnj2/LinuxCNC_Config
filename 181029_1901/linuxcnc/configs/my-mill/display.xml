@@ -1,0 +1,7 @@
+<pyvcp>
+<!-- rapid to home button example -->
+<button>
+<halpin>"rth-button"</halpin>
+<text>"Rapid To Home"</text>
+</button>
+</pyvcp>

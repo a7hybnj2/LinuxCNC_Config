@@ -1,0 +1,6 @@
+o<machine_zero> sub
+G53 G0 Z0
+G53 G0 X0 Y0
+o<machine_zero> endsub
+
+M02
